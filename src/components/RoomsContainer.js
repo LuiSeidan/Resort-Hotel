@@ -24,7 +24,6 @@ export default withRoomConsumer(RoomsContainer);
 // import RoomsList from "../components/RoomsList";
 // import { RoomConsumer } from "../context";
 // import Loading from "../components/Loading";
-
 // export default function RoomsContainer() {
 //   return (
 //     <RoomConsumer>
