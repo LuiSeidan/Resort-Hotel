@@ -19,6 +19,7 @@ function RoomsContainer({ context }) {
 
 export default withRoomConsumer(RoomsContainer);
 
+// Way without Context
 // import React from "react";
 // import RoomsFilter from "../components/RoomsFilter";
 // import RoomsList from "../components/RoomsList";
